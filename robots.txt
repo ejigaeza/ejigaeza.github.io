@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ejigaeza.github.io/Hdu/sitemap_index.txt.gz
+Sitemap: https://ejigaeza.github.io/TCx/sitemap_index.txt.gz
+Sitemap: https://ejigaeza.github.io/mAn/sitemap_index.txt.gz
+Sitemap: https://ejigaeza.github.io/rey/sitemap_index.txt.gz
+Sitemap: https://ejigaeza.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://ejigaeza.github.io/tKr/sitemap_index.txt.gz
